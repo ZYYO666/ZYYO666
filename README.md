@@ -6,7 +6,7 @@
 - 后端开发:  Node.js, PHP, SQLite，MySQL, MongoDB
 - 工具与环境: Git Linux Webpack, Vite, Docker
 - 其他技能: Node.js 进行数据抓取,服务器管理等
-- 
+
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,yarn,windows,webpack,vite,vscode,ts,tailwind,svg,sqlite,react,postman,pnpm,pinia,php,ps,npm,nodejs,nginx,mysql,md,linux,github,arch,babel,bootstrap,c,cpp,clion,cloudflare,codepen,docker,express)](https://skillicons.dev)
 
 
