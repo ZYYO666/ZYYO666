@@ -7,9 +7,6 @@
 - 工具与环境: Git Linux Webpack, Vite, Docker
 - 其他技能: Node.js 进行数据抓取,服务器管理等
 
- [![My Skills](https://skillicons.dev/icons?perline=20&i=js,html,css,bash,git,yarn,windows,webpack,vite,vscode,ts,tailwind,svg,sqlite,react,postman,pnpm,pinia,php,ps,npm,nodejs,nginx,mysql,md,linux,github,arch,babel,bootstrap,c,cpp,clion,cloudflare,codepen,docker,express)](https://skillicons.dev)
-
-
 ### 🌱 我正在学习
 - Vue 3
 - Node.js 前后端
@@ -24,4 +21,6 @@
 - **邮箱**: i@zyyo.net
 
 感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
+
+ [![My Skills](https://skillicons.dev/icons?perline=20&i=js,html,css,bash,git,yarn,windows,webpack,vite,vscode,ts,tailwind,svg,sqlite,react,postman,pnpm,pinia,php,ps,npm,nodejs,nginx,mysql,md,linux,github,arch,babel,bootstrap,c,cpp,clion,cloudflare,codepen,docker,express)](https://skillicons.dev)
 
